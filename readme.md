@@ -20,10 +20,10 @@
 <img align="left" alt="nanduri1998's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nanduri1998&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 <br />
 <br />
-<br />
 
 
 ---
+<br />
 
 <img align="left" alt="nanduri1998's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanduri1998" />
 
