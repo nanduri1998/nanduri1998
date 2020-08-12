@@ -60,7 +60,7 @@
 
   
 
-<img  align="left"  alt="nanduri1998's Language Stats"  src="htpps://github-readme-stats-prod.vercel.app/api/top-langs/?username=nanduri1998"  />
+<img  align="left"  alt="nanduri1998's Language Stats"  src="https://github-readme-stats-prod.vercel.app/api/top-langs/?username=nanduri1998"  />
 
   
 
