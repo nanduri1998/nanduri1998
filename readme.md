@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning a lot of the latest tech stacks
 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: I love to experiment with new stuff in the market
 
