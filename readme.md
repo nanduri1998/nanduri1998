@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning a lot of the latest tech stacks
 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: I love to experiment with new stuff in the market
 
@@ -17,7 +17,7 @@
 
   
 
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[Website][website]
 
 [<img align="left" alt="social | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
@@ -26,41 +26,6 @@
 [<img align="left" alt="social | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="social | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-  
-
-<br  />
-
-  
-
----
-
-### GitHub Stats
-
-<img  align="left"  alt="nanduri1998's Github Stats"  src="https://github-readme-stats-prod.vercel.app/api?username=nanduri1998&show_icons=true&hide_border=true&count_private=true&theme=dark"  />
-
-<br  />
-
-<br  />
-<br  />
-<br  />
-
-<br  />
-<br  />
-<br  />
-<br  />
-<br  />
-<br  />
-  
-  
-
----
-
-### Language Stats
-
-  
-
-<img  align="left"  alt="nanduri1998's Language Stats"  src="https://github-readme-stats-prod.vercel.app/api/top-langs/?username=nanduri1998"  />
 
   
 
